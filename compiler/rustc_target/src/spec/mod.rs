@@ -915,6 +915,7 @@ supported_targets! {
     ("riscv64gc-unknown-linux-musl", riscv64gc_unknown_linux_musl),
 
     ("aarch64-unknown-none", aarch64_unknown_none),
+    ("aarch64-unknown-none-purecap", aarch64_unknown_none_purecap),
     ("aarch64-unknown-none-softfloat", aarch64_unknown_none_softfloat),
 
     ("x86_64-fortanix-unknown-sgx", x86_64_fortanix_unknown_sgx),
